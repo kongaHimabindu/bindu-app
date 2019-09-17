@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Bindu",
+        "age":21,
+        "place":"Madanapalli",
+        "presentplace":"Banglore",
+        "course":"MCA",
+        "skills":"Html,Css,Bootstrap,Angular JS,Angular 7",
+        "Hobbies":"Listening Music",
+        "Strengths":"Honest,Self Motivated and Positive attitude",
+        "goal":"to get a job",
+        "fathername":"Gangul Reddy",
+        "Mothername":"Sivamma",
+        "brothername":"Sreekanta Reddy"
+    }
+    
+]
